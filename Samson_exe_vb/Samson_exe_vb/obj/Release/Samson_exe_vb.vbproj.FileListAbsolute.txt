@@ -1,0 +1,17 @@
+D:\Prgramming\Samson_exe_vb\Samson_exe_vb\bin\Release\Samson_exe_vb.exe
+D:\Prgramming\Samson_exe_vb\Samson_exe_vb\bin\Release\Samson_exe_vb.exe.config
+D:\Prgramming\Samson_exe_vb\Samson_exe_vb\obj\Release\Samson_exe_vb.vbproj.AssemblyReference.cache
+D:\Prgramming\Samson_exe_vb\Samson_exe_vb\obj\Release\Samson_exe_vb.Form1.resources
+D:\Prgramming\Samson_exe_vb\Samson_exe_vb\obj\Release\Samson_exe_vb.Form2.resources
+D:\Prgramming\Samson_exe_vb\Samson_exe_vb\obj\Release\Samson_exe_vb.Resources.resources
+D:\Prgramming\Samson_exe_vb\Samson_exe_vb\obj\Release\Samson_exe_vb.vbproj.GenerateResource.cache
+D:\Prgramming\Samson_exe_vb\Samson_exe_vb\obj\Release\Samson_exe_vb.vbproj.CoreCompileInputs.cache
+D:\Prgramming\Samson_exe_vb\Samson_exe_vb\obj\Release\Samson_exe_vb.exe
+D:\Prgramming\Samson_exe_vb\Samson_exe_vb\obj\Release\Samson_exe_vb.xml
+D:\Prgramming\Samson_exe_vb\Samson_exe_vb\obj\Release\Samson_exe_vb.pdb
+D:\Prgramming\Samson_exe_vb\Samson_exe_vb\bin\Release\Samson_exe_vb.pdb
+D:\Prgramming\Samson_exe_vb\Samson_exe_vb\bin\Release\Samson_exe_vb.xml
+D:\Prgramming\Samson_exe_vb\Samson_exe_vb\bin\Release\Samson_exe_vb.exe.manifest
+D:\Prgramming\Samson_exe_vb\Samson_exe_vb\bin\Release\Samson_exe_vb.application
+D:\Prgramming\Samson_exe_vb\Samson_exe_vb\obj\Release\Samson_exe_vb.exe.manifest
+D:\Prgramming\Samson_exe_vb\Samson_exe_vb\obj\Release\Samson_exe_vb.application
